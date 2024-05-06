@@ -86,7 +86,13 @@ while True:
  s.send("Acknowledgement Recived".encode())
 ```
 ## Output:
+## Client:
 
+![Screenshot 2024-05-06 220443](https://github.com/PreethiS647/SocketStudy/assets/147313372/eb0b666b-f71b-4c36-9e4c-31d22535cd28)
+
+## Server:
+
+![Screenshot 2024-05-06 220500](https://github.com/PreethiS647/SocketStudy/assets/147313372/eb0182e7-875b-40c2-a2e9-0ec82d879d4a)
 
 
 ## Result:
